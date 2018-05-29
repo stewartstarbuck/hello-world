@@ -8,3 +8,5 @@ I added this bit of text with working copy from my iPad!
 And this was added from my MacBook with GitHub Desktop!
 
 Just another quick test.
+
+And this is signed from Working Copy.
